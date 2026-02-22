@@ -1,9 +1,9 @@
 AIRBNB (The full stack project)
-### 2️⃣ Backend Setup
+### [1] Backend Setup
 cd api npm install npm start
 Copy code
 
-### 3️⃣ Frontend Setup
+### [2] Frontend Setup
 cd client npm install npm start
 Copy code
 
