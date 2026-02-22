@@ -1,12 +1,19 @@
-AIRBNB (The full stack project)
-### [1] Backend Setup
-cd api npm install npm start
-Copy code
 
-### [2] Frontend Setup
-cd client npm install npm start
-Copy code
+Airbnb Clone
+Overview
+This project is a full-stack web application developed as a clone of Airbnb using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to replicate the core functionality of Airbnb, allowing users to search for accommodations, view details, make bookings, and manage their listings.
 
+Getting Started
+Clone the Repository:
+
+Install dependencies:
+
+Navigate to client directory and install frontend dependencies using yarn
+
+yarn install
+Similary navigate to api folder and install backend dependencies
+
+yarn install
 ---
 
 ## 🔐 Environment Variables
@@ -26,4 +33,8 @@ Copy code
 - Deployed web application
 
 ---
+Features
+User Authentication: Users can sign up, log in, and log out securely. Passwords are hashed for security.
+
+Google Login: Users can sign up and log in using their gmai
 
